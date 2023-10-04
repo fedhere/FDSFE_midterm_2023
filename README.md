@@ -1,4 +1,4 @@
-# FDSFE_midterm_2023
+# FDSFE_midterm_2023 REALLY REALLY README!!
 midterm 2023 for Foundations of Data Science for Everyone
 
 This exercise explores the pop distribution of population growth  over time by continent.
