@@ -4,9 +4,11 @@ midterm 2023 for Foundations of Data Science for Everyone
 This exercise explores the pop distribution of population growth  over time by continent.
 
 **IMPORTANT: turn in the assignment by sharing with the instructors: do not post on github** 
-<img width="1388" alt="Screen Shot 2023-10-04 at 10 42 31 AM" src="https://github.com/fedhere/FDSFE_midterm_2023/assets/1696902/eba7d7be-cc9a-4492-a8e4-256fae2ada1d">
-<img width="547" alt="Screen Shot 2023-10-03 at 11 28 35 PM" src="https://github.com/fedhere/FDSFE_midterm_2023/assets/1696902/1791819b-3819-42f3-b705-6e66bc0f27d5">
 
+<img width="1388" alt="Screen Shot 2023-10-04 at 10 42 31 AM" src="https://github.com/fedhere/FDSFE_midterm_2023/assets/1696902/20b3fddc-77a7-4d05-a9e4-cb00672e1b7c">
+<img width="1113" alt="Screen Shot 2023-10-05 at 7 24 54 PM" src="https://github.com/fedhere/FDSFE_midterm_2023/assets/1696902/5cfe04a0-44bd-4774-864b-65b51e5f9674">
+
+fbianco@udel.edu, aayele@lincoln.edu, rodiat.ayinde@lions.lincoln.edu 
 
 **what is covered in the midterm?** everything we do until 9/31!
 
